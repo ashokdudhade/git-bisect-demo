@@ -6,7 +6,7 @@ def _importfile(arg):
    print 'Import commit 2'
 
 def _exportfile(arg):
-   print 'Export commit 2'
+   print 'Export commit 3'
 
 
 def main(argv):
