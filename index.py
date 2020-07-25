@@ -3,10 +3,10 @@
 import sys, getopt
 
 def _importfile(arg):
-   print 'Import commit 4'
+   print 'Import commit 5'
 
 def _exportfile(arg):
-   print 'Export commit 3'
+   print 'Export commit 4'
 
 
 def main(argv):
